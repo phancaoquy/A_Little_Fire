@@ -861,6 +861,12 @@ html {
     cursor: pointer;
     transform: scale(1.02); 
 }
+
+.s8-link {
+    width: 44%;
+    
+}
+
 /*SECTION-9*/
 .s9-container2{
     margin-top: 1%;
@@ -2418,7 +2424,10 @@ form{
         transform: scale(1.01);
         filter: drop-shadow(0px 10px 10px #f3aa2b);
     }
-
+    
+    .s8-link {
+        width: 110px;
+    }
 
 }
 
@@ -2823,6 +2832,11 @@ form{
     .s8-img2:hover {
         transform: scale(1.01);
     }
+    
+    .s8-link {
+        width: 143px;
+    }
+
 
     /*SECTION-9*/
     .s9-container2 {
